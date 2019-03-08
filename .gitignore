@@ -1,4 +1,13 @@
+# Ignore everything in "Aloha" except these directories. #
 
+/*
+!css/
+!js/
+!index.html
+!README.md
+!.gitignore
+
+# Ignore OS files #
 .DS_Store
 .DS_Store?
 ._*

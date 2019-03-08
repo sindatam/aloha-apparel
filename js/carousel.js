@@ -1,3 +1,4 @@
+// For Flickity - image slider
 (function($) {
 
     $(document).ready(function(){
